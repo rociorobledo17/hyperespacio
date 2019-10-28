@@ -19,10 +19,10 @@
 				<div class="inner">
 					<nav>
 						<ul>
-							<li><a href="#intro">Welcome</a></li>
-							<li><a href="#one">Who we are</a></li>
-							<li><a href="#two">What we do</a></li>
-							<li><a href="#three">Get in touch</a></li>
+							<li><a href="#intro">BIENVENIDOS!</a></li>
+							<li><a href="#one">QUIENES SOMOS</a></li>
+							<li><a href="#two">LO QUE HACEMOS</a></li>
+							<li><a href="#three">PONERSE EN CONTACTO</a></li>
 						</ul>
 					</nav>
 				</div>
