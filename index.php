@@ -33,7 +33,7 @@
 
 				<!-- Intro -->
 					<section id="intro" 
-						 class="wrapper sty-le1 fullscreen fade-up" style="background-color:red">
+						 class="wrapper sty-le1 fullscreen fade-up" style="background-image: url('images/logo-mitai.png')">
 						<div class="inner">
 							<h1>Mita'i</h1>
 							<p>JASOCIACIÓN DE PADRES PARA AYUDA Y SOSTÉN A PARAGUAY NIÑOS Y NIÑAS CON CÁNCER</p>
