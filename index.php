@@ -32,7 +32,8 @@
 			<div id="wrapper">
 
 				<!-- Intro -->
-					<section id="intro" class="wrapper style1 fullscreen fade-up">
+					<section id="intro" 
+						 class="wrapper sty-le1 fullscreen fade-up" style="background-color:red">
 						<div class="inner">
 							<h1>Mita'i</h1>
 							<p>JASOCIACIÓN DE PADRES PARA AYUDA Y SOSTÉN A PARAGUAY NIÑOS Y NIÑAS CON CÁNCER</p>
