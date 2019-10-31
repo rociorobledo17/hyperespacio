@@ -34,6 +34,12 @@
 						<div class="inner">
 							<h1 class="major">A Generic Page</h1>
 							<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
+							<p>El cáncer es una enfermedad que puede afectar a cualquier niño, y no respeta sexo, 
+clases sociales, raza o edad.</p>
+							<p>En los niños los tumores son la segunda causa de muerte, 
+después de los accidentes.</p>
+							<p>Entre O y 18 años la leucemia es la causa más frecuente. Cada año 2000 niños mueren de cáncer, 
+sin embargo 2 de cada 3 niños pueden ser salvados si reciben a tiempo la atención adecuada.</p>
 							<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.</p>
 							<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
 						</div>
