@@ -36,8 +36,9 @@
 						 class="wrapper sty-le1 fullscreen fade-up" style="background-image: url('images/logo-mitai.png')">
 						<div class="inner">
 							<h1>Mita'i</h1>
-							<p>JASOCIACIÓN DE PADRES PARA AYUDA Y SOSTÉN A PARAGUAY NIÑOS Y NIÑAS CON CÁNCER</p>
+							<p>ASOCIACIÓN DE PADRES PARA AYUDA Y SOSTÉN A PARAGUAY NIÑOS Y NIÑAS CON CÁNCER</p>
 							<ul class="actions">
+								
 								<li><a href="#one" class="button scrolly">Learn more</a></li>
 							</ul>
 						</div>
@@ -49,8 +50,9 @@
 							<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>Sed ipsum dolor</h2>
-									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+									<h2>ASOCIACIÓN DE PADRES PARA AYUDA Y SOSTÉN A PARAGUAY NIÑOS Y NIÑAS CON CÁNCER</h2>
+									<p>El cáncer es una enfermedad que puede afectar a cualquier niño, y no respeta sexo, 
+clases sociales, raza o edad.</p>
 									<ul class="actions">
 										<li><a href="generic.html" class="button">Learn more</a></li>
 									</ul>
