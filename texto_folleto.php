@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title> </title>
 </head>
 <body>
   <h1>Imagenes del Folleto</h1>
