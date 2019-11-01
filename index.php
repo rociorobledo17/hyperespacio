@@ -54,7 +54,7 @@
 									<p>El cáncer es una enfermedad que puede afectar a cualquier niño, y no respeta sexo, 
 clases sociales, raza o edad.</p>
 									<ul class="actions">
-										<li><a href="generic.php" class="button">Learn more</a></li>
+										<li><a href="generic.php" class="button">Leer mas</a></li>
 									</ul>
 								</div>
 							</div>
@@ -66,7 +66,7 @@ clases sociales, raza o edad.</p>
 									<h2>Feugiat consequat</h2>
 									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 									<ul class="actions">
-										<li><a href="generic.html" class="button">Learn more</a></li>
+										<li><a href="generic.php" class="button">Leer mas</a></li>
 									</ul>
 								</div>
 							</div>
@@ -78,7 +78,7 @@ clases sociales, raza o edad.</p>
 									<h2>Ultricies aliquam</h2>
 									<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
 									<ul class="actions">
-										<li><a href="generic.html" class="button">Learn more</a></li>
+										<li><a href="generic.php" class="button">Leer mas</a></li>
 									</ul>
 								</div>
 							</div>
@@ -123,7 +123,7 @@ clases sociales, raza o edad.</p>
 								</section>
 							</div>
 							<ul class="actions">
-								<li><a href="generic.html" class="button">Learn more</a></li>
+								<li><a href="generic.php" class="button">Leer mas</a></li>
 							</ul>
 						</div>
 					</section>
