@@ -39,7 +39,7 @@
 							<p>ASOCIACIÓN DE PADRES PARA AYUDA Y SOSTÉN A PARAGUAY NIÑOS Y NIÑAS CON CÁNCER</p>
 							<ul class="actions">
 								
-								<li><a href="#one" class="button scrolly">Learn more</a></li>
+								<li><a href="#one" class="button scrolly">Leer mas</a></li>
 							</ul>
 						</div>
 					</section>
