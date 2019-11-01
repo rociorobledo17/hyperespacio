@@ -54,7 +54,7 @@
 									<p>El cáncer es una enfermedad que puede afectar a cualquier niño, y no respeta sexo, 
 clases sociales, raza o edad.</p>
 									<ul class="actions">
-										<li><a href="generic.html" class="button">Learn more</a></li>
+										<li><a href="generic.php" class="button">Learn more</a></li>
 									</ul>
 								</div>
 							</div>
