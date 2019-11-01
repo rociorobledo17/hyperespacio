@@ -19,9 +19,9 @@
 				<a href="index.html" class="title">Hyperspace</a>
 				<nav>
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="generic.html">Generic</a></li>
-						<li><a href="elements.html"  class="active">Elements</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="generic.php">Generic</a></li>
+						<li><a href="elements.php"  class="active">Elements</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -37,17 +37,7 @@
 							<!-- Text -->
 								<section>
 									<h2>Text</h2>
-									<p>El cáncer es una enfermedad que puede afectar a cualquier niño, y no respeta sexo, 
-clases sociales, raza o edad. En los niños los tumores son la segunda causa de muerte, 
-después de los accidentes. 
-Entre O y 18 años la leucemia es la causa más frecuente. Cada año 2000 niños mueren de cáncer, 
-sin embargo 2 de cada 3 niños pueden ser salvados si reciben a tiempo la atención adecuada. 
-Hasta hace pocos años, el cáncer infantil, era una enfermedad mortal en el 100% de los casos. 
-Actualmente a través de los progresos de la ciencia, se ha convertido en una enfermedad curable, 
-alcanzando porcentajes de curación alrededor del 80 % en los países del primer mundo. 
-Nosotros, como países tercer mundista, debemos luchar no sólo contra la enfermedad, sino 
-también contra la pobreza, la falta de drogas, las infecciones, el abandono al tratamiento, 
-la distancia de muchos niños que deben acudir hasta un centro especializado en la capital.</p>
+									
 									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
